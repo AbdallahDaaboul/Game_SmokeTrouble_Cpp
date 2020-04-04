@@ -1,4 +1,4 @@
-# Smoke_trouble par APAVOU Clément et DAABOUL Abdallah
+# Smoke_trouble done by Abdallah DAABOUL & Clement APAVOU
 Commmande:
 -q et d pour se déplacer l'avatar vers la gauche ou vers la droite.
 -espace pour envoyer un jet d'eau.
